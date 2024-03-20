@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuLzxURYGKzxz5rFu+2Ih/YuQMj9Ah8PqQeJ2vviq6kruAEQOytBEoq/Tc/C/43rKhPOpdkm9uS+bBnsQB4r9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yaron\\Downloads\\a6-igen\\assignment-4-andersjacobyaron\\Galaga\\Galaga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk\\4.5.0\\opentk.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.compute\\4.5.0\\opentk.compute.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.core\\4.5.0\\opentk.core.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.graphics\\4.5.0\\opentk.graphics.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.input\\4.5.0\\opentk.input.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.mathematics\\4.5.0\\opentk.mathematics.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.openal\\4.5.0\\opentk.openal.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.windowing.common\\4.5.0\\opentk.windowing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.windowing.desktop\\4.5.0\\opentk.windowing.desktop.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.5.0\\opentk.windowing.graphicslibraryframework.4.5.0.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\yaron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
